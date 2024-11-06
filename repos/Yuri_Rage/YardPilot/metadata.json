@@ -1,0 +1,6 @@
+{
+    "name": "Yard Pilot",
+    "website": "https://github.com/Pepeuch/yard-pilot/tree/Blueos",
+    "docker": "https://github.com/Pepeuch/yard-pilot/blob/Blueos",
+    "description": "Planificateur de mission pour couvrir une zone de tonte"
+}
