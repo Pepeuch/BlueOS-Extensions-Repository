@@ -1,0 +1,6 @@
+{
+    "name": "Slic3r coverage planner",
+    "website": "https://github.com/Pepeuch/slic3r_coverage_planner/tree/blueos",
+    "docker": "Pepeuch/slic3r_coverage_planner",
+    "description": "Planificateur de mission pour couvrir une zone de tonte"
+}
